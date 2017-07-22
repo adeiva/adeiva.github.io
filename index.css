@@ -11,3 +11,20 @@ li{ width:50px;
     font-family: sans-serif;
     font-weight: 800;
     }
+ul{ font-family: serif;
+    font-weight: 50;
+    width:20px;
+    font-size: 5px;
+    font-style: italic;
+    background-color: red;
+    color: orange;
+  }
+
+h1{ font-family: roboto;
+    font-weight: 80;
+    width: 50px;
+    font-size: 6px;
+    font-style: bold;
+    background-color: green;
+    color: gray;
+}
