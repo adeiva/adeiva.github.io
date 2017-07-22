@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title> my amazing website </title>
+  <style>
+h1{ color: blue;
+    font-style: bold;
+     background-color: dark blue;
+     font-size: 12px;
+    }
+li{ width:50px;
+    font-family: sans-serif;
+    font-weight: 800;
+    }
