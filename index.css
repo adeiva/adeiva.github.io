@@ -35,3 +35,6 @@ th, td{ padding: 15px;
 }
 table{ border-spacing:16px;
 }
+table#t01{width: 100%;
+          background-color:#4C24B3;
+}
