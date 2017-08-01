@@ -31,3 +31,7 @@ h1{ font-family: roboto;
 table, th, td { border: 10px, solid blue;
                 border-collapse: collapse;
 }
+th, td{ padding: 15px;
+}
+table{ border-spacing:16px;
+}
