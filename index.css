@@ -28,3 +28,6 @@ h1{ font-family: roboto;
     background-color: green;
     color: gray;
 }
+table, th, td { border: 10px, solid blue;
+                border-collapse: collapse;
+}
