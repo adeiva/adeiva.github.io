@@ -2,39 +2,81 @@
 <head>
   <title> my amazing website </title>
   <style>
-h1{ color: blue;
-    font-style: bold;
-     background-color: dark blue;
-     font-size: 12px;
-    }
-li{ width:50px;
-    font-family: sans-serif;
-    font-weight: 800;
-    }
-ul{ font-family: serif;
-    font-weight: 50;
-    width:20px;
-    font-size: 5px;
+ h1{color: darkgoldenrod;
     font-style: italic;
-    background-color: red;
-    color: orange;
+    background-color: darkred;
+    } 
+  body{background-color:mediumvioletred;
+      }
+  h1{ color: #01F039;
   }
-
-h1{ font-family: roboto;
-    font-weight: 80;
-    width: 50px;
-    font-size: 6px;
-    font-style: bold;
-    background-color: green;
-    color: gray;
-}
-table, th, td { border: 10px, solid blue;
-                border-collapse: collapse;
-}
-th, td{ padding: 15px;
-}
-table{ border-spacing:16px;
-}
-table#t01{width: 100%;
-          background-color:#4C24B3;
-}
+  ul{color:#FF00FF}
+  li{font-size: 8px;
+  }
+  li{width:250px;
+  }
+  li{ font-family: sans-serif;
+  }
+  li{font-weight: bold}
+  p{color: aquamarine;
+   font-style: sans-serif;
+     background-color: blue;
+  }
+  div{font-weight: 800;
+  }
+  div{font-family: monospace;}
+  p{font-size: 18px;
+  }
+  div{font-size:23px;}
+  ul{font-family: cursive;
+    font-size: 45px;
+    font-weight: 700;
+    color:azure;
+      background-color: bisque;
+    }
+  div li{color:#C8CD31;
+         font-weight:900;
+         font-size: 50px;
+         font-style: sans-serif;
+         font-family: inherit;
+          background-color: azure;
+          width: auto;
+        }
+  
+  h2{color:#B8CD5C;
+    } 
+  u1{color:#3638B7
+   }
+  div h2{color: aliceblue;
+        }
+  div{border-style: dotted;
+      border: 5px red dashed;
+      border: dotted;
+      border-radius: 10px 
+      text-align: left;
+  }
+  h1{outline: 15px;
+   } padding: 15px;
+     margin: 20px;
+  ul{box-sizing: border-box;
+     text-decoration: underline;
+  }
+  img{position: absolute;
+      float: left;
+      clear: both;
+      z-index: -1;
+      opacity: inherit;
+  }
+  .side-content{ font-size:14px;
+    background-color:#3e3e3e;
+    color:#00FFFF;
+    { width:25%;
+  
+      .header{margin-top: 15px;
+             }
+#div {
+        font-family: Roboto, sans-serif; 
+      }    
+  
+background-color: <hexcode> | <keyword>
+  
